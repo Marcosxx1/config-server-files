@@ -7,7 +7,7 @@ build:
     version: "3.0"
 
 cards:
-    message: "Microservice for Cards. Environment: PROD"
+    message: "Microservice for Cards. Environment: PRODUCTION"
     contactDetails:
         name: "Marcosxx1"
         email: "{cipher}ff67cbeee264b41d2cb2b4505d733117f4ebaff07e83a67c4168692038557be3a258e6455e471bffd528ec79697f7ac5"
